@@ -1,0 +1,2 @@
+ mysql_package_name:  mysql-server
+ mysql_package_state:  present
