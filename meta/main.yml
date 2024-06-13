@@ -19,6 +19,7 @@ galaxy_info:
      Versions: 
      - bullseye
   galaxy_tags:
-    - jenkins
-    - server
+    - apache
+    - mysql
     - system
+    - database
